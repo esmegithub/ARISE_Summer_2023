@@ -5,19 +5,17 @@ NYU Tandon's ARISE (Applied Research Innovation in Science & Engineering) progra
 **Table of Contents**
 
 - [Introduction](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#introduction)
-- [Sensors](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensors)
-    - [Sensor Scouting](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-scouting)
-    - [Sensor Placement Strategy](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
-    - [Flood Sensor Community Build Guide](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
+- [Sensor Scouting](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-scouting)
+- [Sensor Placement](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
+- [Flood Sensor Community Build Guide](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
 - [FieldKit Weather](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
 
 ## Introduction
-intro text
+During this internship, I worked with FloodNet NYC on all aspects having to do with sensors. Before I delve in, what is a FloodNet sensor? Real-time flood sensors were developed by the FloodNet project at NYU and the CUNY Advanced Science Research Center (ASRC), with a goal of providing information on the presence, frequency, and depth of hyperlocal street-level flood events to a range of stakeholders, including policymakers, government agencies, citizens, emergency response teams, community advocacy groups, and researchers. I learned how these sensors are installed and all that goes into something which seems relatively straightforward, I have boiled this process down into two primary steps: [Sensor Scouting](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-scouting) and [Sensor Placement](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy) . In addition to this, I worked on figuring out how to use a [FieldKit Weather Sensor](https://www.fieldkit.org/products/fieldkit-weather/) which serves as a helpful comparison to the FloodNet sensor and is readily available for purchase by individuals. While there are some advantages to using this, especially if one simply wants to play around with a sensor, the FloodNet sensors are the far superior choice for the community as a whole due to their data capturing, engineering and mechanical advantages. 
 
-## Sensors
-yum
+This program offers a unique expirence for high school students to explore the field of engineering in a hands-on way, I have gained real-world knowledge that will help me make career decisions in the future, as well as a firsthand account of what it's like to work in an engineering lab with various professionals in the field.  
 
-### Sensor Scouting
+# Sensor Scouting
 FloodNet takes community need very seriously and as such uses this [Google Form](https://forms.gle/4kJpujo9pDt7hZmRA) to allow NYC residents to suggest locations for deployment of sensors. In addition to this, FloodNet is partnered with NY Sea Grant and the Science and Resilience Institute of Jamaica Bay; these organizations, along with the NYC Mayor’s Office of Climate Resiliency and other partners, co-founded a [Community Flood Watch Project](https://www.srijb.org/jbfloodwatch/) that has helped to inform their outreach.
 
 Once a location is proposed, FloodNet consults the [NYC Stormwater Flood Maps](https://experience.arcgis.com/experience/4b290961cac34643a49b9002f165fad8/) to confirm that this location is likely to be impacted by flooding in a Moderate Stormwater Event. 
@@ -45,7 +43,7 @@ Deployed sensors on ideal sign post locations
 
 
 
-### Sensor Placement Strategy
+# Sensor Placement Strategy
 Once the sensor deployment location is identified, the following offers a brief summary of the next steps to deploy a [FloodNet](https://www.floodnet.nyc) flood sensor. A more in-depth overview can be found [here](https://github.com/floodnet-nyc/flood-sensor/blob/main/deployment/flood-sensor-deployment-manual.md?plain=1) .
 
 ### Before Leaving the Lab
@@ -107,22 +105,14 @@ To ensure proper installation of the sensor mount, follow the appropriate method
   - **Position the L plate on the post:** Take the L plate that is attached to the mount and carefully place it on the front side of the post, ensuring it is positioned at the desired height.
   - **Secure the sensor mount:** Using two M8 1.5" bolts, along with two M8 locknuts and four Oversized Clipped Washers, fasten the sensor mount firmly onto the U-post. Make sure the bolts are tightened securely to ensure stability.<br>
 
-By properly positioning the L plate on the front side of the post and using the specified bolts, locknuts, and Oversized Clipped Washers to secure the sensor mount, you can achieve a robust and reliable installation for the sensor on the U-post. (Refer to the provided image for visual reference.)
-  
-  <br>
-  <img src="img/IMG_3356.jpg "width="300" height="360" >
-  <br>
+By properly positioning the L plate on the front side of the post and using the specified bolts, locknuts, and Oversized Clipped Washers to secure the sensor mount, you can achieve a robust and reliable installation for the sensor on the U-post. 
 
 - **2. Mounting the sensor on the back side of the post:**<br>
   To mount the sensor on the back side of the post, follow these steps for a secure installation:
    - **Position the L plate with a mending plate:** Take the L plate attached to the mount and place it on the back side of the post. Ensure that a mending plate is inserted between the L plate and the post. This additional plate provides reinforcement and stability.
    -  **Secure the sensor mount:** Use two M8 3" bolts, along with two M8 locknuts and four Oversized Clipped Washers, to firmly attach the sensor mount to the U-post. Fasten the bolts tightly to ensure a secure and stable mounting.<br>
 
-By positioning the L plate with the mending plate on the back side of the post and using the specified M8 bolts, locknuts, and Oversized Clipped Washers, you can achieve a reliable and sturdy installation for the sensor on the U-post. (Refer to the provided image for visual reference.)
-  
-  <br>
-  <img src="img/mounted-back-slotted-plate.png" "width="250" height="600">
-  <br>
+By positioning the L plate with the mending plate on the back side of the post and using the specified M8 bolts, locknuts, and Oversized Clipped Washers, you can achieve a reliable and sturdy installation for the sensor on the U-post.
 
 - **3. Mounting the sensor on the post with an obstacle such as a stop sign, parking sign, or do not enter sign:**<br>
   To mount the sensor on a post with an obstacle like a stop sign, parking sign, or do not enter sign, follow these steps for a successful installation:
@@ -130,12 +120,8 @@ By positioning the L plate with the mending plate on the back side of the post a
   - **Prepare the area:** Begin by unbolting the sign from the bottom, allowing it to be rotated or temporarily moved to create sufficient space for installing the mount.
   - **Install the sensor mount:** Once the obstacle has been moved or rotated, proceed with the steps mentioned earlier to securely mount the sensor on the U-post. This involves using the appropriate mounting hardware and following the provided instructions.<br>
 
-By carefully unbolting and repositioning the sign to create the necessary clearance, you can then proceed with the regular steps for mounting the sensor on the U-post. (Refer to the provided image for visual reference.)
-  
-  <br>
-  <img src="img/Behind the signs.jpg" "width="300" height="500">
-  <br>
-  
+By carefully unbolting and repositioning the sign to create the necessary clearance, you can then proceed with the regular steps for mounting the sensor on the U-post.
+
 - **4. Mounting on a direction or signage round pole:**<br>
 To ensure secure placement of the sensor, we will employ steel straps and a strapping tool. Follow these steps for a successful installation:
   - **Determine the strap length:** Estimate the required length of the straps, ensuring they are long enough to securely fasten the sensor. Cut two pieces from the steel strap roll, matching the estimated length.
@@ -143,13 +129,7 @@ To ensure secure placement of the sensor, we will employ steel straps and a stra
   - **Begin strapping the first strap:** Using the strapping tool, start securing the first strap around the round pole and the L plate. Apply tension to the strap using the tool and ensure it is tightly fastened.
   - **Repeat the process for the second strap:** Once the first strap is securely tightened, repeat the same procedure for the second strap. Apply tension to the strap using the strapping tool, ensuring a firm and stable attachment.<br>
 
-By utilizing the steel straps and strapping tool, cutting the appropriate length of straps, and securely fastening the sensor to the round pole using the L plate, you can achieve a reliable and secure placement of the sensor.(Refer to the provided image for visual reference.)
-
-  <br>
-  <img src="img/Sensor on Round pole.jpeg" "width="280" height="500" >
-  <br>
-
-By carefully following these guidelines, you can ensure the proper and secure installation of the sensor mount, tailored to the specific conditions and post types involved.
+By utilizing the steel straps and strapping tool, cutting the appropriate length of straps, and securely fastening the sensor to the round pole using the L plate, you can achieve a reliable and secure placement of the sensor.
 
 ### Solar Panel installation
 To maximize solar power harvesting, the solar panel should be south-facing and exposed to direct sunlight. Though we try to avoid mounting on overly slanted drive rails, a bit of slant is almost unavoidable. Once the sensor is partially secured to the drive rail, we use a level to determine how the pitch of the drive rail is impacting the angle of the mounting infrastructure. We use washers, zip ties, or other spacers to adjust the angle at which the sensor is mounted to the drive rail.
@@ -158,16 +138,16 @@ Furthermore, achieving parallel alignment of the sensor with the ground is cruci
 - Place the circular bubble level at the bottom of the cone and observe the reading.
 - Next, position the level on the ground directly beneath the sensor and take a reading. The bubble in the level should be in the opposite direction, indicating that the sensor is parallel to the ground. If not then adjust the mount little bit. *<insert the image*>
 
-## Joining the FloodNet network
+### Joining the FloodNet network
 Once the installation is complete, it is important to perform a final check to ensure the proper functioning of the sensor. Follow these steps:
 - Verify the antenna tightness: Double-check that the antenna is securely tightened in place. This will help optimize the signal reception and transmission.
 - Switch on the sensor: Power on the sensor, and you should observe a green light illuminating. This indicates that the sensor is receiving power and is operational.
 - Establish connection to the gateway: Wait for a moment as the sensor establishes a connection with the gateway. The green light will turn off once the sensor successfully connects.
  
-## Start Sensing!
+### Start Sensing!
 Access data on The Things Network: With the sensor connected, the collected data will become visible on The Things Network platform. You can now monitor and analyze the data transmitted by the sensor. New sensor locations should be recorded into master spreadsheet as well as deployment map.
 
-### Flood Sensor Community Build Guide
+## Flood Sensor Community Build Guide
 poo
 
 ## FieldKit Weather
