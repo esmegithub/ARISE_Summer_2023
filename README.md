@@ -1,15 +1,15 @@
 # ARISE_Summer_2023
-NYU Tandon's ARISE (Applied Research Innovation in Science & Engineering) program is a 7 week summer internship that allows students to work within research labs. FloodNet is a cooperative of communities, researchers, and New York City government agencies working to better understand the frequency, severity, and impacts of flooding in New York City. They aim to provide access to real-time information and data on flooding to aid city agencies and residents.
+NYU Tandon's ARISE (Applied Research Innovation in Science & Engineering) program is a 7 week summer internship that allows students to work within research labs. FloodNet is a cooperative of communities, researchers, and New York City government agencies working to better understand the frequency, severity, and impacts of flooding in New York City. They aim to provide access to real-time information and data on flooding to aid city agencies and residents. The following document covers the key components of this internship and up to date data (as of August 2023).
 
 
 **Table of Contents**
 
-- Introduction
-- Sensors
-    - Sensor Scouting 
-    - Sensor Placement Strategy
-    - Flood Sensor Community Build Guide
-- FieldKit Weather
+- [Introduction](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#introduction)
+- [Sensors](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensors)
+    - [Sensor Scouting](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-scouting)
+    - [Sensor Placement Strategy](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
+    - [Flood Sensor Community Build Guide](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
+- [FieldKit Weather](https://github.com/esmegithub/ARISE_Summer_2023/blob/main/README.md#sensor-placement-strategy)
 
 ## Introduction
 intro text
